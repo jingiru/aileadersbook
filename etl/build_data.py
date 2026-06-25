@@ -366,10 +366,11 @@ def main():
                    "docId": e.get("factcheckDocId") or None}
         # 웹앱: 최신 링크 = PDF 임베드 링크 우선, 없으면 웹앱목록 링크
         a = apps.get(sid)
+        wsc = wa_scores.get(sid)
         list_url = (a or {}).get("url") or ""
         latest = e.get("embeddedLink") or list_url or ""
         war = None
-        if a or latest or e.get("webappViewUrl"):
+        if a or latest or e.get("webappViewUrl") or wsc:  # 점수만 있어도 카드 생성
             war = {
                 "title": (a or {}).get("title") or "",
                 "desc": (a or {}).get("desc") or "",
@@ -378,7 +379,7 @@ def main():
                 "linkChanged": bool(e.get("embeddedLink") and list_url and e["embeddedLink"] != list_url),
                 "pdfUrl": e.get("webappViewUrl") or None,   # 보고서 PDF (드라이브)
                 "pdfId": e.get("webappFileId") or None,
-                "score": wa_scores.get(sid),                # 채점 결과(일부 반) 또는 None(채점중)
+                "score": wsc,                       # 채점 결과(일부 반) 또는 None(채점중)
             }
 
         rec = {
