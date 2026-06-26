@@ -16,9 +16,13 @@ OUT = r"D:\project_clone\alb\web\data.js"
 ROSTER_X   = os.path.join(RC, "학생 명단.xlsx")
 FEEDBACK_X = os.path.join(RC, "AI 시대 팩트 체크 조별 피드백.xlsx")
 APPS_X     = os.path.join(RC, "웹앱 목록.xlsx")
-PRE_X      = os.path.join(DK, "(2026) 정보 수업 사전 설문조사(응답).xlsx")
-FC_POST_X  = os.path.join(DK, "(2026) AI 시대 팩트 체크 수행평가 후 설문조사(응답).xlsx")
-WA_POST_X  = os.path.join(DK, "(2026) AI 기반 웹앱 개발 수행평가 후 설문조사(응답).xlsx")
+# 설문 파일은 연구대회 폴더로 이동됨(과거: 데스크탑). 데스크탑에도 있으면 그쪽 우선.
+def _survey(fname):
+    dk = os.path.join(DK, fname)
+    return dk if os.path.exists(dk) else os.path.join(RC, fname)
+PRE_X      = _survey("(2026) 정보 수업 사전 설문조사(응답).xlsx")
+FC_POST_X  = _survey("(2026) AI 시대 팩트 체크 수행평가 후 설문조사(응답).xlsx")
+WA_POST_X  = _survey("(2026) AI 기반 웹앱 개발 수행평가 후 설문조사(응답).xlsx")
 ENRICH_J   = r"D:\project_clone\alb\etl\enrich.json"  # 드라이브 크롤 결과(워크플로우 산출)
 WA_SCORE_X = r"C:\Users\user\Documents\Codex\2026-06-25\rkr\outputs\AI기반웹앱개발_채점결과(일부).xlsx"
 

@@ -34,7 +34,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1Tn9lxXndfQ4AUS1pDNSTKRDd5OCHj6Gz/view?usp=drivesdk",
     "pdfId": "1Tn9lxXndfQ4AUS1pDNSTKRDd5OCHj6Gz",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 6,
+      "웹앱 구현·기능": 8,
+      "생성AI 협력 활용": 6
+     },
+     "total": 20,
+     "totalMax": 30,
+     "comment": "초기 프롬프트 이외에 각 버전별 프롬프트 서술이 필요함. 버전3까지 필수로 해야 함. 보고서 뒷 부분 완성이 필요함. 이 앱 자체가 문제 상황 해결에 효과가 있으려면 좀더 세부적인 기능이 필요함."
+    }
    },
    "surveys": {
     "pre": [
@@ -207,7 +216,16 @@ window.RB = {
     "linkChanged": true,
     "pdfUrl": "https://drive.google.com/file/d/1uKcqNCD9FuVCcxftKJP7-G5SQHqgoipO/view?usp=drivesdk",
     "pdfId": "1uKcqNCD9FuVCcxftKJP7-G5SQHqgoipO",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 8,
+      "웹앱 구현·기능": 8,
+      "생성AI 협력 활용": 10
+     },
+     "total": 26,
+     "totalMax": 30,
+     "comment": "좋은 아이디어이긴 하지만 해당 식물이 시드는 것이 늦게 자는 것을 해결할 정도로 크리티컬한 요소라고 보기 어려우며 기능도 매우 단순하여 보완이 필요함."
+    }
    },
    "surveys": {
     "pre": [
@@ -380,7 +398,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1U1Anlg4AEOOgrPUUrNHi9FUmOOJ_Dm9k/view?usp=drivesdk",
     "pdfId": "1U1Anlg4AEOOgrPUUrNHi9FUmOOJ_Dm9k",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 8,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 8
+     },
+     "total": 26,
+     "totalMax": 30,
+     "comment": "문제 해결을 위한 방법에 보완이 필요함. 프롬프트의 구체성이 필요함."
+    }
    },
    "surveys": {
     "pre": [
@@ -542,7 +569,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1ql2gaYDzQoqE0raOGehsop2E53InREqw/view?usp=drivesdk",
     "pdfId": "1ql2gaYDzQoqE0raOGehsop2E53InREqw",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "한문 공부에도 아주 도움이 많이 될듯. 한문 선생님에게 보여드리면 좋을듯"
+    }
    },
    "surveys": {
     "pre": [
@@ -711,7 +747,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1-IQT6OyoeErjZSaUqAUWo6Q5oddWCWWj/view?usp=drivesdk",
     "pdfId": "1-IQT6OyoeErjZSaUqAUWo6Q5oddWCWWj",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "매우 잘했으나 앱 자체가 사용자에게 좀더 친숙한 환경으로 다가갈 수 있는 방법에 대해 고민해보길 바람."
+    }
    },
    "surveys": {
     "pre": [
@@ -884,7 +929,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1PB3CEcI4n2tXbLKFEoQzDyBd7rJQATCO/view?usp=drivesdk",
     "pdfId": "1PB3CEcI4n2tXbLKFEoQzDyBd7rJQATCO",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "실제 알람으로도 쓸 수 있으면 참 좋을듯"
+    }
    },
    "surveys": {
     "pre": [
@@ -1053,7 +1107,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1IPwxdZEKpc-f2MSm3TO7kFDjdErOsv-S/view?usp=drivesdk",
     "pdfId": "1IPwxdZEKpc-f2MSm3TO7kFDjdErOsv-S",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "문제 상황이 아침에 핸드폰을 보는 거라면 그거를 해결하는 거 자체에 더 집중해 보길 바람(아침에 화면이 꺼진다든지) 노력한 흔적이 보여서 만점 부여"
+    }
    },
    "surveys": {
     "pre": [
@@ -1211,7 +1274,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1dsjtSx8NMCRvQGhiVBQT-JYyMFXyrf_t/view?usp=drivesdk",
     "pdfId": "1dsjtSx8NMCRvQGhiVBQT-JYyMFXyrf_t",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "의외로 꽤 잘했으나 실제로 친구에게 오는 메시지 내용에 맞춰서 답장이 다양해졌으면 더 좋았을 것 같음"
+    }
    },
    "surveys": {
     "pre": [
@@ -1384,7 +1456,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1ipAkfC1PQswcRzH8e3M6uqFgdNMM9JWl/view?usp=drivesdk",
     "pdfId": "1ipAkfC1PQswcRzH8e3M6uqFgdNMM9JWl",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "인터페이스가 아주 마음에 듬. 나중에 이 소질을 잘 발휘해보길 바람."
+    }
    },
    "surveys": {
     "pre": [
@@ -1557,7 +1638,16 @@ window.RB = {
     "linkChanged": true,
     "pdfUrl": "https://drive.google.com/file/d/1ijlaisVYvEZjLUlDBhNFlxiSqEIhIoxd/view?usp=drivesdk",
     "pdfId": "1ijlaisVYvEZjLUlDBhNFlxiSqEIhIoxd",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "극딜을 좀더 킹받게 만들었어도 될 듯"
+    }
    },
    "surveys": {
     "pre": [
@@ -1726,7 +1816,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1Qa6vc1ADCLw4OGPAjsuUYIM65ZnFM7t9/view?usp=drivesdk",
     "pdfId": "1Qa6vc1ADCLw4OGPAjsuUYIM65ZnFM7t9",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "알람 만든 애들 중에 가장 훌륭함"
+    }
    },
    "surveys": {
     "pre": [
@@ -1895,7 +1994,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1_x8CShMRrtou-mXwQZ0iae4ytEjpqdyn/view?usp=drivesdk",
     "pdfId": "1_x8CShMRrtou-mXwQZ0iae4ytEjpqdyn",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "실제 핸드폰에 적용할 수 있으면 좋을듯!"
+    }
    },
    "surveys": {
     "pre": [
@@ -2072,7 +2180,16 @@ window.RB = {
     "linkChanged": true,
     "pdfUrl": "https://drive.google.com/file/d/1jdwhLAC4Ak9mBpgPBSGxXJIxmqyZLBM8/view?usp=drivesdk",
     "pdfId": "1jdwhLAC4Ak9mBpgPBSGxXJIxmqyZLBM8",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "의외로 너무 잘했는데?"
+    }
    },
    "surveys": {
     "pre": [
@@ -2230,7 +2347,16 @@ window.RB = {
     "linkChanged": true,
     "pdfUrl": "https://drive.google.com/file/d/1Wj5cHRwiozYP65sIf16HNDOZLXjCgpjE/view?usp=drivesdk",
     "pdfId": "1Wj5cHRwiozYP65sIf16HNDOZLXjCgpjE",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 8,
+      "웹앱 구현·기능": 8,
+      "생성AI 협력 활용": 6
+     },
+     "total": 22,
+     "totalMax": 30,
+     "comment": "문제 아이디어의 구체화 및 앱 기능의 보완이 필요함.(이거 가지고 잔소리 효과가 있을까?) 보고서 마지막 부분 완성해야 함. 버전3까지는 해야 함."
+    }
    },
    "surveys": {
     "pre": [
@@ -2403,7 +2529,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1hiyHFGXpPTHWOcTsB2WCLtKknYOdTLXG/view?usp=drivesdk",
     "pdfId": "1hiyHFGXpPTHWOcTsB2WCLtKknYOdTLXG",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "잘했당"
+    }
    },
    "surveys": {
     "pre": [
@@ -2572,7 +2707,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1zPTZTXY-w4L2B3-Ovar73HNw8eqn7L5T/view?usp=drivesdk",
     "pdfId": "1zPTZTXY-w4L2B3-Ovar73HNw8eqn7L5T",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "생각보다 기발하고 창의적으로 잘 만들었음. 소질을 발휘해서 나중에 관련 직업을 가지거나 다른 과제할 때 이 능력을 발휘하면 좋겠음."
+    }
    },
    "surveys": {
     "pre": [
@@ -2745,7 +2889,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1QvXVtdaioOdMp5WdwwfuLzPaoTKKeTjp/view?usp=drivesdk",
     "pdfId": "1QvXVtdaioOdMp5WdwwfuLzPaoTKKeTjp",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 8
+     },
+     "total": 28,
+     "totalMax": 30,
+     "comment": "전반적으로 잘 하긴 했는데 버전3 프롬프트에서 '퀄리티를 높여줘'라는 게 모호함. 더 구체적일 필요가 있음."
+    }
    },
    "surveys": {
     "pre": [
@@ -2907,7 +3060,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1NXJ00uWU59ZjaRReELPqafg_3Gw6RiS-/view?usp=drivesdk",
     "pdfId": "1NXJ00uWU59ZjaRReELPqafg_3Gw6RiS-",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "틀리면 다시 리셋되는 아이디어가 좋음"
+    }
    },
    "surveys": {
     "pre": [
@@ -3084,7 +3246,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1RyZOEQ2k6SY8A4LzVrXAoBWpUPK8LXFc/view?usp=drivesdk",
     "pdfId": "1RyZOEQ2k6SY8A4LzVrXAoBWpUPK8LXFc",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 8,
+      "웹앱 구현·기능": 8,
+      "생성AI 협력 활용": 10
+     },
+     "total": 26,
+     "totalMax": 30,
+     "comment": "잘 하긴 했으나 기능적으로 많은 보완이 필요함. 일단 현실적으로 스마트폰은 IR 기능이 들어가지 않는 이상 리모콘으로 동작이 불가능함. 그리고 버튼으로 9번을 초과하는 채널을 누를 수 없어서 이것도 보완이 필요함."
+    }
    },
    "surveys": {
     "pre": [
@@ -3257,7 +3428,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1OpUJ53L_Bak7VKjc5kidl9HuvkNqgtDK/view?usp=drivesdk",
     "pdfId": "1OpUJ53L_Bak7VKjc5kidl9HuvkNqgtDK",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "잘 만들었는데 나중에 혹시 보완을 한다면 기능을 좀더 촘촘히 짜 볼 필요가 있음.(글씨 크기, 버튼 드래그 방식 등)"
+    }
    },
    "surveys": {
     "pre": [
@@ -3426,7 +3606,16 @@ window.RB = {
     "linkChanged": true,
     "pdfUrl": "https://drive.google.com/file/d/1nQY8ntKdk3jS20xrZd4ztBTvGoiCx7ff/view?usp=drivesdk",
     "pdfId": "1nQY8ntKdk3jS20xrZd4ztBTvGoiCx7ff",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 8,
+      "웹앱 구현·기능": 8,
+      "생성AI 협력 활용": 10
+     },
+     "total": 26,
+     "totalMax": 30,
+     "comment": "잘 만들었으나 기능적으로 좀더 세밀할 필요는 있음. 프롬프트 중 단어라면 무슨 단어? => 구체적이어야 함."
+    }
    },
    "surveys": {
     "pre": [
@@ -3599,7 +3788,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1uFQvkGczX3ZQF_2fL_wLJIqpMJDtFhm4/view?usp=drivesdk",
     "pdfId": "1uFQvkGczX3ZQF_2fL_wLJIqpMJDtFhm4",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "꽤 잘했음"
+    }
    },
    "surveys": {
     "pre": [
@@ -3768,7 +3966,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1e14imSwiS0XkqyE_b5eznRF6QJlWOzYo/view?usp=drivesdk",
     "pdfId": "1e14imSwiS0XkqyE_b5eznRF6QJlWOzYo",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "괜찮긴 한데 좀더 문제 해결에 집중한다면 다른 기능들을 더 추가할 수 있었을 것으로 보임."
+    }
    },
    "surveys": {
     "pre": [
@@ -3941,7 +4148,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1nsk8FR9HFz6xJn3W70MR4t7FrWqEC2ca/view?usp=drivesdk",
     "pdfId": "1nsk8FR9HFz6xJn3W70MR4t7FrWqEC2ca",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "괜찮게 잘 했음. 다만 실제로 쓴다고 생각한다면 폰트 크기나 디자인에 더 신경써보면 좋겠음."
+    }
    },
    "surveys": {
     "pre": [
@@ -4099,7 +4315,16 @@ window.RB = {
     "linkChanged": true,
     "pdfUrl": "https://drive.google.com/file/d/1WuqCvxY4PjQwp6GHaLhTkBA9ndRGt_2C/view?usp=drivesdk",
     "pdfId": "1WuqCvxY4PjQwp6GHaLhTkBA9ndRGt_2C",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 8
+     },
+     "total": 28,
+     "totalMax": 30,
+     "comment": "잘 하긴 했는데 기능 개선을 함에 있어 좀더 현실적으로 사용 가능한 옵션(터치 횟수 변경 등)들을 추가할 필요가 있음. 지금은 AI가 다 만든 걸 디자인 위주로만 바꾼 상황임."
+    }
    },
    "surveys": {
     "pre": [
@@ -4268,7 +4493,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1PqbAyn_3SG-rmWUXq_rimkHnpOI2ja42/view?usp=drivesdk",
     "pdfId": "1PqbAyn_3SG-rmWUXq_rimkHnpOI2ja42",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "괜찮게 잘 했는데 현실적으로 쓰이려면 좀더 다양한 기능이 추가되면 좋겠음."
+    }
    },
    "surveys": {
     "pre": [
@@ -4437,7 +4671,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/1DZY0sHdEsF5ByQarIn_ozWJfHGrPOect/view?usp=drivesdk",
     "pdfId": "1DZY0sHdEsF5ByQarIn_ozWJfHGrPOect",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 10,
+      "웹앱 구현·기능": 10,
+      "생성AI 협력 활용": 10
+     },
+     "total": 30,
+     "totalMax": 30,
+     "comment": "정말 훌륭하다 민수야"
+    }
    },
    "surveys": {
     "pre": [
@@ -4602,7 +4845,16 @@ window.RB = {
     "linkChanged": false,
     "pdfUrl": "https://drive.google.com/file/d/13BgbuhMz9mBCKNTliL78ufKoQMK2Fry1/view?usp=drivesdk",
     "pdfId": "13BgbuhMz9mBCKNTliL78ufKoQMK2Fry1",
-    "score": null
+    "score": {
+     "scores": {
+      "문제 발견·설계": 6,
+      "웹앱 구현·기능": 8,
+      "생성AI 협력 활용": 8
+     },
+     "total": 22,
+     "totalMax": 30,
+     "comment": "문제 원인 파악과 해결 아이디어의 보완이 필요하고, 보고서 마지막 부분 완성해야 함. 버전3까지는 해야 함."
+    }
    },
    "surveys": {
     "pre": [
